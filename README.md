@@ -1,4 +1,4 @@
-# eplus (Eloquent Plus)
+# ePlus (Eloquent Plus)
 
 A set of database conventions based off of Laravel's Eloquent database model.
 
