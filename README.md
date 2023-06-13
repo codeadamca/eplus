@@ -1,6 +1,6 @@
 # ePlus (Eloquent Plus)
 
-A set of database conventions based off of Laravel's Eloquent database model.
+A set of database conventions based off of Laravel's [Eloquent](https://laravel.com/docs/10.x/eloquent) database model.
 
 ---
 
