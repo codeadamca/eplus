@@ -2,7 +2,7 @@
 
 A set of database conventions based off of Laravel's [Eloquent](https://laravel.com/docs/10.x/eloquent) database model.
 
-> This page is available to view at [https://eplus.coeadam.ca](https://eplus.coeadam.ca).
+> This page is available to view at [https://eplus.codeadam.ca](https://eplus.codeadam.ca).
 
 ---
 
