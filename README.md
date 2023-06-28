@@ -15,8 +15,8 @@ Fields are orgamized by field type. Fields are placed in the following order:
  - enums and sets
  - foreign keys
  - dates
-
- - 
+ - timestamps
+ - soft deletes
 
 > This repo is available to view at [https://eplus.codeadam.ca](https://eplus.codeadam.ca).
 
