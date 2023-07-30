@@ -1,4 +1,4 @@
-# ePlus
+# eplus
 
 A set of database conventions used in addition to Laravel's [Eloquent](https://laravel.com/docs/10.x/eloquent) database model.
 
