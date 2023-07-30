@@ -1,6 +1,6 @@
 # ePus
 
-A set of database guidelines based off of Laravel's [Eloquent](https://laravel.com/docs/10.x/eloquent) database model.
+A set of database conventions used in addition to Laravel’s [Eloquent](https://laravel.com/docs/10.x/eloquent) database model.
 
 > This repo is available to view at  
 > [https://eplus.codeadam.ca](https://eplus.codeadam.ca)
