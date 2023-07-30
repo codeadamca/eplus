@@ -1,6 +1,6 @@
 # ePlus
 
-A set of database conventions based off of Laravel's [Eloquent](https://laravel.com/docs/10.x/eloquent) database model.
+A set of database conventions used in addition to Laravel's [Eloquent](https://laravel.com/docs/10.x/eloquent) database model.
 
 ## Field Order
 
@@ -17,6 +17,10 @@ Fields are orgamized by field type. Fields are placed in the following order:
  - dates
  - timestamps
  - soft deletes
+
+## Dates
+
+All date and time fields are named after their event and then `_at`. For example `published_at`. The default timestamps are `creadted_at` and `updated_at`. Soft delete filed is named `deleted_at`. 
 
 ---
 
