@@ -20,7 +20,9 @@ Fields are orgamized by field type. Fields are placed in the following order:
 
 ## Dates
 
-All date and time fields are named after their event and then `_at`. For example `published_at`. The default timestamps are `creadted_at` and `updated_at`. Soft delete filed is named `deleted_at`. 
+All date and time fields are named after their event and then `_at`. For example `published_at`. 
+
+The default timestamps fieldnames are `creadted_at` and `updated_at`. The default soft delete field name is `deleted_at`. 
 
 ---
 
