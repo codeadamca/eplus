@@ -1,4 +1,4 @@
-# ePus
+# eplus
 
 A set of database conventions used in addition to Laravel’s [Eloquent](https://laravel.com/docs/10.x/eloquent) database model.
 
@@ -17,7 +17,7 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 
 ## Repo Resources
 
-- [ePlus](https://eplus.codeadam.ca)
+- [eplus](https://eplus.codeadam.ca)
 - [Laravel Eloquent](https://laravel.com/docs/10.x/eloquent)
 
 <a href="https://codeadam.ca">
