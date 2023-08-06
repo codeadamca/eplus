@@ -2,6 +2,9 @@
 
 A set of database conventions used in addition to Laravel’s [Eloquent](https://laravel.com/docs/10.x/eloquent) database model.
 
+> **Note**  
+> All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
+
 > This repo is available to view at  
 > [https://eplus.codeadam.ca](https://eplus.codeadam.ca)
 
