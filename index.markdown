@@ -30,4 +30,4 @@ The default timestamps fieldnames are `creadted_at` and `updated_at`. The defaul
 <img src="https://codeadam.ca/images/code-block.png" width="50">
 </a>
 
-<style>@import url("//readme.codeadam.ca/readme.css");</style>
+[//]: # <style>@import url("//readme.codeadam.ca/readme.css");</style>
