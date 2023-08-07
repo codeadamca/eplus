@@ -1,5 +1,3 @@
-<style>@import url("//readme.codeadam.ca/readme.css");</style>
-
 # eplus
 
 A set of database conventions used in addition to Laravel's [Eloquent](https://laravel.com/docs/10.x/eloquent) database model.
@@ -31,3 +29,5 @@ The default timestamps fieldnames are `creadted_at` and `updated_at`. The defaul
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="50">
 </a>
+
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
