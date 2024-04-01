@@ -6,13 +6,13 @@ A set of database conventions used in addition to Laravel's [Eloquent](https://l
 
 ## Field Order
 
-Fields are orgamized by field type. Fields are placed in the following order:
+Fields are organized by field type. Fields are placed in the following order:
 
  - id (primary key)
  - char, varchar, and text
  - blob, binary, and varbinary
  - json
- - interger, smallint, tinyint, mediumint, and bigint
+ - integer, smallint, tinyint, mediumint, and bigint
  - decimal, numeric, float, and double
  - enums and sets
  - foreign keys
@@ -24,7 +24,7 @@ Fields are orgamized by field type. Fields are placed in the following order:
 
 All date and time fields are named after their event and then `_at`. For example `published_at`. 
 
-The default timestamps fieldnames are `creadted_at` and `updated_at`. The default soft delete field name is `deleted_at`. 
+The default timestamps fieldnames are `created_at` and `updated_at`. The default soft delete field name is `deleted_at`. 
 
 ---
 
