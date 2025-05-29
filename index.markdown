@@ -30,6 +30,9 @@ The default timestamps fieldnames are `created_at` and `updated_at`. The default
 
 Fields that have three or more values should use the type `enum` with possible values listed in alphabetical order. Fields that have only two possible values should use the type `boolean` and be named `is_` and then their value. For example `is_active` or `is_approved`.
 
+<div class="components" id="resources">--resources--</div>
+<script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
+
 ---
 
 <a href="https://codeadam.ca">
